@@ -5,3 +5,10 @@
 - Currently teaching Computer Science and Programming to IGCSE level. 
 - Have experience in backend web development. 
 - Would like to settle as an Embedded Software Engineer.
+
+##### Skills
+- Python
+- TypeScript
+- C# and ASP.NET
+- C/C++
+- Rust (still learning)
