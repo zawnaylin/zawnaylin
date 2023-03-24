@@ -2,7 +2,7 @@
 #### An Electronic Engineering student who is interested in backend Development and Embedded Systems ####
 
 ##### Description #####
-- Like to play games.
+- Like to play games (Especially Dota 2 and Valorant).
 - Currently teaching Computer Science and Programming to IGCSE level. 
 - Have experience in backend web development. 
 - Would like to settle as an Embedded Software Engineer.
