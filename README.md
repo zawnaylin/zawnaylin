@@ -1,6 +1,7 @@
 ### Zaw Nay Lin ###
-#### A student interested in Backend web development and AI ####
+#### An Electronic Engineering student who is interested in backend Development and Embedded Systems ####
 
 - Like to play games.
-- Learning *ASP.NET* with C# for backend development.
-- Use *Python 3* for AI.
+- Currently teaching Computer Science and Programming to IGCSE level. 
+- Have experience in backend web development. 
+- Would like to settle as an Embedded Software Engineer.
